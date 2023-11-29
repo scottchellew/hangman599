@@ -11,7 +11,7 @@ Secondly, the code checks if the input is a letter, then checks if it matches a 
 
 The third edit to the Hangman game is milestone_4.py. This is a combination of milestone_2 and milestone_3. Furthermore, users are told if their choice is correct, incorrect or if it has been used before. Users can see the position of their letter in the word and how many lives they have left if they make an incorrect choice.
 
-The final edit to this game is milestone_5.py. This takes the code of milestone_4.py and adds a while loop to track the amount of lives the user has left and the amount of letters left to guess. It prints whether they have won or lost the game and exits the game.
+The final edit to this game is milestone_5.py. This takes the code of milestone_4.py and adds a while loop to track the amount of lives the user has left and the amount of letters left to guess. It prints whether they have won or lost the game and exits the game. Docstrings are added to milestone_5.py.
 
 To play, in the terminal, access the hangman folder then type python milestone_5.py. Enter a single, lower case letter as a guess when prompted.
 
